@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - sarthakvarsh9696@gmail.com
 
-Project Link: [https://github.com/yourusername/data-analysis-app](https://github.com/yourusername/data-analysis-app) 
+Project Link: [https://github.com/sarth-ak47/Data-Analysis-Website](https://github.com/sarth-ak47/Data-Analysis-Website) 
